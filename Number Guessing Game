@@ -1,0 +1,20 @@
+import random 
+
+nums = random.randint(1, 10)
+attempt = 0 
+
+while True: 
+    Guess = int(input("Guess a nubmer (1-10) "))
+    attempt += 1 
+
+    if Guess > nums:
+        print("Too High")
+
+    elif Guess < nums:
+        print("Too Low")
+    
+    else:
+        print("Bravos! you hit the point.")
+        print("Attempts:", attempt)
+        break
+
