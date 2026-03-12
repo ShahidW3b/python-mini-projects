@@ -1,0 +1,47 @@
+print("Calculator")
+
+while True:
+
+    print("1. Add")
+    print("2. Subtract")
+    print("3. Multiply")
+    print("4. Divide")
+    print("5. Exit")
+    print()
+
+    choose = input("Chose the operation please: ")
+
+    if choose == "5":
+        print("Exiting.")
+        break
+    
+    if choose in ["1", "2", "3", "4"]:
+        num_1 = float(input("Enter first number: "))
+        num_2 = float(input("Enter second number "))
+      
+    if choose == "1":
+        result = num_1 + num_2
+    
+
+    elif choose == "2":
+        result = num_1 - num_2
+
+    elif choose == "3":
+        result = num_1 * num_2
+    
+    elif choose == "4":
+        if num_2 == 0:
+            print("Cannot divide by zero.")
+            continue
+        result = num_1/num_2
+
+    print("Result:", result)
+
+    again = input("Do you want to countinue (y/n): ")
+
+    if again.lower == "n":
+        print("Exiting.")
+        break
+
+
+    
