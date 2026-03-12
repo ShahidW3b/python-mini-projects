@@ -1,0 +1,48 @@
+
+score = 0
+
+ans_ml = "machine learning"
+ans_agi = "artificial general intelligence"
+
+print("Question 1")
+print("'RAM' stands for:")
+print("a) Random Access Memory")
+print("b) Read Only Memory")
+print("c) Real Time Management")
+
+choose = input("Choose (a/b/c): ")
+
+if choose.lower() == "a":
+    print("Correct!")
+    score += 1
+else:
+    print("Wrong answer.")
+
+print("\nQuestion 2")
+q = input("What are the two CPU design philosophies? ")
+
+if "risc" in q.lower() and "cisc" in q.lower():
+    print("Bravo! Correct.")
+    score += 1
+else:
+    print("Wrong answer.")
+
+print("\nQuestion 3")
+q = input("'ML' is abbreviation for: ")
+
+if q.lower() == ans_ml:
+    print("Correct!")
+    score += 1
+else:
+    print("Wrong answer.")
+
+print("\nQuestion 4")
+q = input("'AGI' stands for: ")
+
+if q.lower() == ans_agi:
+    print("Correct!")
+    score += 1
+else:
+    print("Wrong answer.")
+
+print("\nFinal Score:", score, "/4")
