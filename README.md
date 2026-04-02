@@ -56,8 +56,6 @@ This repository will grow with more advanced projects, including:
 
 ---
 
---- 
-
 ## Structure 
 
 python-mini-projects/
