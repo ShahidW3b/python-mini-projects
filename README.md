@@ -56,7 +56,7 @@ This repository will grow with more advanced projects, including:
 
 ---
 
-## Structure 
+## 📌 Structure
 
 python-mini-projects/ <br>
 ├── Number Guessing Game/ <br>
@@ -68,4 +68,3 @@ python-mini-projects/ <br>
 └── README.md 
 ---
 
-## 📌 Structure
