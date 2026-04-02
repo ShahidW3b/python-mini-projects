@@ -58,14 +58,14 @@ This repository will grow with more advanced projects, including:
 
 ## Structure 
 
-python-mini-projects/
-├── Number Guessing Game/
-├── Simple Quiz/
-├── Word Frequency Counter/
-├── simple-calculator/
-├── password_checker.py
-├── task_manager.py
-└── README.md
+python-mini-projects/ <br>
+├── Number Guessing Game/ <br>
+├── Simple Quiz/ <br>
+├── Word Frequency Counter/ <br>
+├── simple-calculator/ <br>
+├── password_checker.py <br>
+├── task_manager.py <br>
+└── README.md 
 ---
 
 ## 📌 Structure
