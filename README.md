@@ -35,6 +35,9 @@ Evaluates password strength based on basic rules.
 ### 📋 Task Manager
 A simple command-line task management tool.
 
+### ✔️ CLI TO-Do App
+A beginner-friendly command-line To-Do application written in Python.
+
 ---
 
 ## 🛠️ Technologies
