@@ -57,17 +57,3 @@ This repository will grow with more advanced projects, including:
 - Automation scripts  
 - Mini AI/ML experiments  
 
----
-
-## 📌 Structure
-
-python-mini-projects/ <br>
-├── Number Guessing Game/ <br>
-├── Simple Quiz/ <br>
-├── Word Frequency Counter/ <br>
-├── simple-calculator/ <br>
-├── password_checker.py <br>
-├── task_manager.py <br>
-└── README.md 
----
-
