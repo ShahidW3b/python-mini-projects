@@ -1,4 +1,4 @@
-# 🐍 Python Mini Projects
+# 🐍 Python-CLI-Projects
 
 This repository contains a collection of **beginner-friendly Python projects** focused on building strong foundations in programming logic, problem-solving, and core concepts.
 
