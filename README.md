@@ -15,38 +15,6 @@ It serves as the starting point of my journey into Python development, with prog
 
 ---
 
-## 📂 Projects Included
-
-### 🎮 Number Guessing Game
-A simple game where the user tries to guess a randomly generated number.
-
-### 🧮 Simple Calculator
-Basic calculator supporting arithmetic operations.
-
-### 📝 Simple Quiz
-A quiz application with scoring functionality.
-
-### 📊 Word Frequency Counter
-Counts occurrences of words in a given text.
-
-### 🔐 Password Strength Checker
-Evaluates password strength based on basic rules.
-
-### 📋 Task Manager
-A simple command-line task management tool.
-
-### ✔️ CLI To-Do App
-A beginner-friendly command-line To-Do application written in Python.
-
----
-
-## 🛠️ Technologies
-
-- Python 3  
-- Standard Python libraries  
-
----
-
 ## 📈 Future Improvements
 
 This repository will grow with more advanced projects, including:
