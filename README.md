@@ -1,27 +1,17 @@
-# 🐍 Python-CLI-Projects
+# Python CLI Projects
 
-This repository contains a collection of **beginner-friendly Python projects** focused on building strong foundations in programming logic, problem-solving, and core concepts.
+A collection of beginner-friendly Python CLI projects created while learning Python.
 
-It serves as the starting point of my journey into Python development, with progressively improving projects over time.
+## Projects
 
----
+| Project | Description |
+|---------|-------------|
+| 📚 Personal Book Collection Manager | Manage your personal library. |
+| 🎓 Student Management System | Store and manage student records. |
+| 📈 Personal Study Performance Tracker | Track study sessions and progress. |
+| 🛒 Small Shop Sales Analyzer | Analyze sales data and generate reports. |
 
-## 🚀 Purpose
-
-- Practice Python fundamentals  
-- Improve problem-solving skills  
-- Build small, practical applications  
-- Track learning progress over time  
-
----
-
-## 📈 Future Improvements
-
-This repository will grow with more advanced projects, including:
-
-- File handling projects  
-- API-based applications  
-- Data analysis projects  
-- Automation scripts  
-- Mini AI/ML experiments  
-
+Each project contains:
+- `main.py`
+- `README.md`
+- `screenshots/`
