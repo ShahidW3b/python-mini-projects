@@ -25,3 +25,21 @@ A command-line Python application for recording sales and analyzing shop revenue
 ```bash
 python main.py
 ```
+
+## Screenshots
+
+### Main Menu
+
+![Main Menu](screenshots/main%20minue.png)
+
+### Add Sale
+
+![Add Sale](screenshots/add%20sale.png)
+
+### Revenue Summary
+
+![Revenue Summary](screenshots/revenue%20summary.png)
+
+### Lowest Revenue Product
+
+![Lowest Revenue Product](screenshots/lowest_revenue_product.png)
