@@ -25,3 +25,22 @@ A command-line application written in Python for managing a personal book collec
 
 ```bash
 python main.py
+
+
+## Screenshots
+
+### Main Menu
+
+![Main Menu](screenshots/main%20minue.png)
+
+### Adding a Book
+
+![Adding Book](screenshots/adding%20book.png)
+
+### Book List
+
+![Book List](screenshots/book%20list.png)
+
+### Remove Book
+
+![Remove Book](screenshots/remove%20option.png)
