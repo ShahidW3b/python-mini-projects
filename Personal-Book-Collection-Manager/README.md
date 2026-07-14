@@ -25,5 +25,3 @@ A command-line application written in Python for managing a personal book collec
 
 ```bash
 python main.py
-
-
