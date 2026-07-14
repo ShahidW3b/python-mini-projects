@@ -25,3 +25,21 @@ A command-line Python application for tracking study sessions and learning progr
 ```bash
 python main.py
 ```
+
+## Screenshots
+
+### Main Menu
+
+![Main Menu](screenshots/main%20minue.png)
+
+### Adding a Study Session
+
+![Adding Session](screenshots/adding%20session.png)
+
+### All Study Sessions
+
+![All Sessions](screenshots/all%20sessions.png)
+
+### Study Summary
+
+![Study Summary](screenshots/summary%20of%20study.png)
