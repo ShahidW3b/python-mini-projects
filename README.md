@@ -10,6 +10,8 @@ A collection of beginner-friendly Python CLI projects created while learning Pyt
 | 🎓 Student Management System | Store and manage student records. |
 | 📈 Personal Study Performance Tracker | Track study sessions and progress. |
 | 🛒 Small Shop Sales Analyzer | Analyze sales data and generate reports. |
+| 🎓 Personal Academic Progress Manager | Manage and store academic records. |
+
 
 Each project contains:
 - `main.py`
