@@ -43,7 +43,7 @@ python main.py
 
 ### Searching a Subject
 
-![Searching Subject](screenshots/search%20subject.png)
+![Searching Subject](screenshots/subject%20search.png)
 
 ### Subject Average
 
