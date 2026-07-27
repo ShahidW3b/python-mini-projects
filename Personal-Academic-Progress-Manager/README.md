@@ -41,26 +41,11 @@ python main.py
 
 ![Main Menu](screenshots/main%20menu.png)
 
-### Adding a Subject
-
-![Adding Subject](screenshots/adding%20subject.png)
-
 ### Searching a Subject
 
 ![Searching Subject](screenshots/search%20subject.png)
-
-### Showing Tasks
-
-![Showing Tasks](screenshots/show%20tasks.png)
 
 ### Subject Average
 
 ![Subject Average](screenshots/subject%20average.png)
 
-### Highest Average
-
-![Highest Average](screenshots/highest%20average.png)
-
-### Updating Progress
-
-![Updating Progress](screenshots/update%20progress.png)
