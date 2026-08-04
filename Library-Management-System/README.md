@@ -32,16 +32,9 @@ python main.py
 
 ### Main Menu
 
-![Main Menu](screenshots/main%20menu.png)
+![Main Menu](screenshots/main-menu.png)
 
 ### Book Information
 
-![Book Information](screenshots/book%20information.png)
+![Show Book](screenshots/show-book.png)
 
-### Borrow Book
-
-![Borrow Book](screenshots/borrow%20book.png)
-
-### Return Book
-
-![Return Book](screenshots/return%20book.png)
