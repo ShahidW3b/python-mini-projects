@@ -35,15 +35,19 @@ python main.py
 
 ### Main Menu
 
-![Main Menu](screenshots/main%20menu.png)
+![Main Menu](screenshots/main-menu.png)
 
 ### Account Information
 
-![Account Information](screenshots/account%20information.png)
+![Account Information](screenshots/account-details.png)
 
 ### Deposit Money
 
 ![Deposit Money](screenshots/deposit.png)
+
+### Not sufficent balance
+
+![Deposit Money](screenshots/withdraw-.png)
 
 ### Withdraw Money
 
