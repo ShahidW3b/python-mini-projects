@@ -43,7 +43,7 @@ python main.py
 
 ### Deposit Money
 
-![Deposit Money](screenshots/deposit.png)
+![Deposit Money](screenshots/deposite.png)
 
 ### Not sufficent balance
 
