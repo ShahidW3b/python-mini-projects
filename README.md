@@ -15,9 +15,8 @@ A collection of Python command-line applications developed while learning Python
 | 5 | 🎯 Personal Academic Progress Manager | Track academic performance and study goals. | Nested Dictionaries |
 | 6 | 🏦 Personal ATM System | Deposit, withdraw, and manage bank accounts. | OOP, Exception Handling |
 | 7 | 🏋️ Personal Gym Membership System | Manage gym memberships and check-ins. | OOP, Menus |
-| 8 | 🏦 Personal ATM System | Deposit, withdraw, and manage bank accounts. | OOP, Exception Handling |
-| 9 | 📚 Library Management System | Borrow and return books. | OOP |
-| 10 | *(Coming Soon)* | | |
+| 8 | 📚 Library Management System | Borrow and return books. | OOP |
+| 9 | *(Coming Soon)* | | |
 
 ---
 
