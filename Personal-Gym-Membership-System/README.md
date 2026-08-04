@@ -35,20 +35,13 @@ python main.py
 
 ### Main Menu
 
-![Main Menu](screenshots/main%20menu.png)
+![Main Menu](screenshots/main-menu.png)
 
 ### Member Information
 
-![Member Information](screenshots/member%20information.png)
+![Member Information](screenshots/membership-type.png)
 
-### Check In
-
-![Check In](screenshots/check%20in.png)
 
 ### Membership Renewal
 
-![Membership Renewal](screenshots/membership%20renewal.png)
-
-### Membership Type
-
-![Membership Type](screenshots/membership%20type.png)
+![Membership Renewal](screenshots/renewel.png)
