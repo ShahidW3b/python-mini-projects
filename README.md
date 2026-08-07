@@ -16,7 +16,8 @@ A collection of Python command-line applications developed while learning Python
 | 6 | 🏦 Personal ATM System | Deposit, withdraw, and manage bank accounts. | OOP, Exception Handling |
 | 7 | 🏋️ Personal Gym Membership System | Manage gym memberships and check-ins. | OOP, Menus |
 | 8 | 📚 Library Management System | Borrow and return books. | OOP |
-| 9 | *(Coming Soon)* | | |
+| 9 | 🎓 University Management System | Python CLI application for managing students, teachers, and courses. | OOP|
+| 10 | *Coming soon * |
 
 ---
 
