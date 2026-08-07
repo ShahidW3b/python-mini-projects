@@ -48,6 +48,7 @@ Python-CLI-Projects/
 ├── Personal-ATM-System/
 ├── Personal-Gym-Membership-System/
 ├── Library-Management-System/
+├── University Management System/
 │
 └── README.md
 ```
