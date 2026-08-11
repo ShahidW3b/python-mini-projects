@@ -8,16 +8,17 @@ A collection of Python command-line applications developed while learning Python
 
 | # | Project | Description | Topics |
 |---|---------|-------------|--------|
-| 1 | 📖 Personal Book Collection Manager | Manage a personal book collection. | Functions, Dictionaries |
-| 2 | 🎓 Student Management System | Store and manage student information. | CRUD, Dictionaries |
-| 3 | 📈 Personal Study Performance Tracker | Track study sessions and progress. | Functions, Lists |
-| 4 | 🛒 Small Shop Sales Analyzer | Analyze sales and generate reports. | Loops, Calculations |
-| 5 | 🎯 Personal Academic Progress Manager | Track academic performance and study goals. | Nested Dictionaries |
-| 6 | 🏦 Personal ATM System | Deposit, withdraw, and manage bank accounts. | OOP, Exception Handling |
-| 7 | 🏋️ Personal Gym Membership System | Manage gym memberships and check-ins. | OOP, Menus |
-| 8 | 📚 Library Management System | Borrow and return books. | OOP |
-| 9 | 🎓 University Management System | Python CLI application for managing students, teachers, and courses. | OOP|
-| 10 | *Coming soon * |
+| 1  | 📖 Personal Book Collection Manager | Manage a personal book collection. | Functions, Dictionaries |
+| 2  | 🎓 Student Management System | Store and manage student information. | CRUD, Dictionaries |
+| 3  | 📈 Personal Study Performance Tracker | Track study sessions and progress. | Functions, Lists |
+| 4  | 🛒 Small Shop Sales Analyzer | Analyze sales and generate reports. | Loops, Calculations |
+| 5  | 🎯 Personal Academic Progress Manager | Track academic performance and study goals. | Nested Dictionaries |
+| 6  | 🏦 Personal ATM System | Deposit, withdraw, and manage bank accounts. | OOP, Exception Handling |
+| 7  | 🏋️ Personal Gym Membership System | Manage gym memberships and check-ins. | OOP, Menus |
+| 8  | 📚 Library Management System | Borrow and return books. | OOP |
+| 9  | 🎓 University Management System | Python CLI application for managing students, teachers, and courses. | OOP|
+| 10 | 🏨 Hotel Reservation System | Python CLI application for managing guests, staff, room reservations, pricing, cleanliness, and check-in/check-out | OOP |
+| 11 | *Coming soon * |
 
 ---
 
@@ -49,6 +50,7 @@ Python-CLI-Projects/
 ├── Personal-Gym-Membership-System/
 ├── Library-Management-System/
 ├── University Management System/
+├── Hotle Reservation System/
 │
 └── README.md
 ```
