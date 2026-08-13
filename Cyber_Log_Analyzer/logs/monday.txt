@@ -1,0 +1,8 @@
+10:15 | 192.168.1.10 | admin | SUCCESS
+10:20 | 45.23.91.12 | admin | FAILED
+10:21 | 45.23.91.12 | admin | FAILED
+10:25 | 192.168.1.15 | user1 | SUCCESS
+10:26 | 192.168.1.16 | user2 | SUCCESS
+10:28 | 45.23.91.18 | user3 | FAILED
+10:29 | 45.23.91.19 | user3 | FAILED
+10:33 | 192.168.1.21 | user1 | SUCCESS
