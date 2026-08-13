@@ -52,7 +52,7 @@ The analyzer reads login records in the following format:
 
 ### Log Analysis
 
-![Log Analysis](screenshots/log-analysis.png)
+![Log Analysis](screenshots/log-analyze.png)
 
 ### Login Statistics
 
