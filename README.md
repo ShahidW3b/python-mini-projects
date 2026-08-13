@@ -18,7 +18,8 @@ A collection of Python command-line applications developed while learning Python
 | 8  | 📚 Library Management System | Borrow and return books. | OOP |
 | 9  | 🎓 University Management System | Python CLI application for managing students, teachers, and courses. | OOP|
 | 10 | 🏨 Hotel Reservation System | Python CLI application for managing guests, staff, room reservations, pricing, cleanliness, and check-in/check-out | OOP |
-| 11 | *Coming soon * |
+| 11 | 🔐 Cyber Log Analyzer | Python CIL application for analyzing log file and detecting suspicious login activity. | OOP | 
+| 12 | *Coming soon * |
 
 ---
 
@@ -51,7 +52,7 @@ Python-CLI-Projects/
 ├── Library-Management-System/
 ├── University Management System/
 ├── Hotle Reservation System/
-│
+├── Cyber Log Analyzer/
 └── README.md
 ```
 
